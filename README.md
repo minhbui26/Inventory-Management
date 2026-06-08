@@ -1,6 +1,6 @@
 # Inventory Management<br>
 
-This project was developed as part of the **Advanced Programming course (C++)** during my Bachelor's studies in Computer Engineering at the University of Isfahan.<br><br>
+Developed by **Bui Nhat Minh** (Student ID: 21021341), **VNU – Vietnam National University**, as part of the Advanced Programming course (C++).<br><br>
 
 ## Table of content
   - [Login and Sign up](#login-and-sign-up)
