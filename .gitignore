@@ -148,5 +148,9 @@ CMakeLists.txt.user*
 
 *.exe
 
+# Database backup
+
+*.db.bak
+
 
 
